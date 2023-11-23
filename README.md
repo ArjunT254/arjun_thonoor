@@ -8,7 +8,7 @@
 - B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 -June 2021_)
 
 ## Work Experience
-#**Tredence**
+### **Tredence**
 **Consultant (_Feb 2023 -July 2023_)**
 - Spearheaded supply chain optimization algorithmdevelopment for Ecolab, reducing delivery time and fuel consumption, and
 projecting $5 million in cost savings.
@@ -50,6 +50,5 @@ Created a blog media application using MERN stack which enables users to post th
 other users.
 
 ## Achivements
-● Recognized at Tredence with “Quick off the block” award for versatility and high performance within 3 months of joining.
-● Received “Pat on the back” award for proactively learning Power BI to meet project requirements during a resource shortage.
-
+- Recognized at Tredence with “Quick off the block” award for versatility and high performance within 3 months of joining.
+- Received “Pat on the back” award for proactively learning Power BI to meet project requirements during a resource shortage.
