@@ -4,8 +4,8 @@
 #### Tools & Technologies: Excel, Power BI, Azure, Databricks, HTML/CSS, JavaScript (NodeJS, ReactJS), MongoDB, Matlab
 
 ## Education
-●  M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
-●  B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 - June 2021_)
+  M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
+  B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 - June 2021_)
 
 ## Work Experience
 ### **Tredence**
@@ -39,7 +39,7 @@ creating a unified reference hub across multiple verticals.
 services to enhance inventory management for a cement manufacturer.
 
 ## Academic Projects
-### Gesture ControlledBot (June 2021 - Sept 2021)
+### Gesture ControlledBot
 
 Developed a cost-effective economic surveillance bot, responsive to hand gestures, utilizing an accelerometer to transmit
 signals to an Arduino controller programmed in Cfor precise navigation, achieving a 20% cost reduction compared to market
