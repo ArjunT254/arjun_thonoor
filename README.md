@@ -4,8 +4,9 @@
 #### Tools & Technologies: Excel, Power BI, Azure, Databricks, HTML/CSS, JavaScript (NodeJS, ReactJS), MongoDB, Matlab
 
 ## Education
-- M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
-- B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 -June 2021_)
+M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
+
+B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 -June 2021_)
 
 ## Work Experience
 ### **Tredence**
