@@ -10,6 +10,15 @@
   B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 - June 2021_)
 
 ## Work Experience
+
+### **University of Minnesota** 
+**Graduate Research Assistant (_May 2024 - Present_)**
+-Analyzed course selection patterns at Hopkins High School using machine learning and statistical modeling techniques, identifying GPA and demographic-based disparities, improved academic advising feedback by 20%.
+
+### **Affinity Plus Credit Union**
+**Affinity Plus Credit Union (_Jun 2024 - Aug 2024_)**
+-Developed a POC in Python to simulate the credit flow performance of a new bank branch using Monte Carlo Simulation. Presented a Power BI dashboard highlighting branch KPIs across 8 economic scenarios.
+
 ### **Tredence**
 **Consultant (_Feb 2023 -July 2023_)**
 - Spearheaded supply chain optimization algorithmdevelopment for Ecolab, reducing delivery time and fuel consumption, and
@@ -41,15 +50,15 @@ creating a unified reference hub across multiple verticals.
 services to enhance inventory management for a cement manufacturer.
 
 ## Academic Projects
-### Gesture ControlledBot
+### Causal ML in Education Programs
 
-Developed a cost-effective economic surveillance bot, responsive to hand gestures, utilizing an accelerometer to transmit
-signals to an Arduino controller programmed in Cfor precise navigation, achieving a 20% cost reduction compared to market
-alternatives.
+Modeled a Causal inference framework in R using 3000+ student data from Hopkins Schools to assess the impact of accelerated course enrollment on academic outcomes. Utilized Propensity Score Matching and Instrumental Variables to control for confounding.
 
-### Blog Application
-Created a blog media application using MERN stack which enables users to post their daily blogs and read blogs posted by
-other users.
+### Social Sentiment AI Analyst
+Utilized advanced Natural Language Processing (NLP) techniques including transformer models and LLMs (Distil BERT) to achieve an 87% accuracy in sentiment classification for social media posts.
+
+### Cricket Match Outcome Prediction
+Analyzed cricket match data using SQL, identified key patterns and trends. Designed ML models to accurately predict match outcomes, achieving a 75% accuracy rate in win/loss probabilities through effective data manipulation.
 
 ## Achivements
 - Recognized at Tredence with “Quick off the block” award for versatility and high performance within 3 months of joining.
