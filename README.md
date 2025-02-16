@@ -1,14 +1,3 @@
-# Data Scientist
-
-#### Programming Languages: 
-Python, SQL, R, C++
-#### Python Libraries / Frameworks: 
-Pandas, NumPy, Scikit-Learn, Pytorch, NLTK, Dask, TensorFlow, Pymc
-#### Data Analysis and Visualization: 
-Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel
-#### Cloud / Development Stack: 
-Azure DevOps, AWS, Git, Databricks, Spark, Jupyter, MongoDB, Power Automate
-
 ## Education
 
   M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
@@ -65,6 +54,17 @@ Utilized advanced Natural Language Processing (NLP) techniques including transfo
 
 ### Cricket Match Outcome Prediction
 Analyzed cricket match data using SQL, identified key patterns and trends. Designed ML models to accurately predict match outcomes, achieving a 75% accuracy rate in win/loss probabilities through effective data manipulation.
+
+# Data Scientist
+
+#### Programming Languages: 
+Python, SQL, R, C++
+#### Python Libraries / Frameworks: 
+Pandas, NumPy, Scikit-Learn, Pytorch, NLTK, Dask, TensorFlow, Pymc
+#### Data Analysis and Visualization: 
+Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel
+#### Cloud / Development Stack: 
+Azure DevOps, AWS, Git, Databricks, Spark, Jupyter, MongoDB, Power Automate
 
 ## Achivements
 - Recognized at Tredence with “Quick off the block” award for versatility and high performance within 3 months of joining.
