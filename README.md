@@ -1,7 +1,9 @@
 # Data Scientist
 
 #### Programming Languages: Python, SQL, R, C++
-#### Tools & Technologies: Excel, Power BI, Azure, Databricks, HTML/CSS, JavaScript (NodeJS, ReactJS), MongoDB, Matlab
+#### Python Libraries / Frameworks: Pandas, NumPy, Scikit-Learn, Pytorch, NLTK, Dask, TensorFlow, Pymc
+#### Data Analysis and Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel
+#### Cloud / Development Stack: Azure DevOps, AWS, Git, Databricks, Spark, Jupyter, MongoDB, Power Automate
 
 ## Education
 
