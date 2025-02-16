@@ -1,9 +1,13 @@
 # Data Scientist
 
-#### Programming Languages: Python, SQL, R, C++
-#### Python Libraries / Frameworks: Pandas, NumPy, Scikit-Learn, Pytorch, NLTK, Dask, TensorFlow, Pymc
-#### Data Analysis and Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel
-#### Cloud / Development Stack: Azure DevOps, AWS, Git, Databricks, Spark, Jupyter, MongoDB, Power Automate
+#### Programming Languages: 
+Python, SQL, R, C++
+#### Python Libraries / Frameworks: 
+Pandas, NumPy, Scikit-Learn, Pytorch, NLTK, Dask, TensorFlow, Pymc
+#### Data Analysis and Visualization: 
+Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel
+#### Cloud / Development Stack: 
+Azure DevOps, AWS, Git, Databricks, Spark, Jupyter, MongoDB, Power Automate
 
 ## Education
 
@@ -22,7 +26,7 @@
 -Developed a POC in Python to simulate the credit flow performance of a new bank branch using Monte Carlo Simulation. Presented a Power BI dashboard highlighting branch KPIs across 8 economic scenarios.
 
 ### **Tredence**
-**Consultant (_Feb 2023 -July 2023_)**
+**Consultant (_Feb 2023 - Jul 2023_)**
 - Spearheaded supply chain optimization algorithmdevelopment for Ecolab, reducing delivery time and fuel consumption, and
 projecting $5 million in cost savings.
 - Orchestrated the creation of 6 Python-based alert signals for over 3000 chemical tanks in collaboration with the operations
@@ -31,7 +35,7 @@ team, leading to a 30% reduction in tank run-dry incidents.
 - Developed a Langchain and ChatGPT-powered AI chatbot for Tredence Analytics website, offering intelligent client
 responses and providing informative website links increasing interactions per visit by 35%.
 
-**Data Analyst (June 2021 -Jan 2023)**
+**Data Analyst (June 2021 - Jan 2023)**
 - Engineered SQLqueries to achieve efficient data transformation and migration fromthe bronze to copper layers within
 Databricks.
 - Championed the design and implementation of Azure Data Pipelines, slashing weekly manual efforts by 3 hours, facilitating
