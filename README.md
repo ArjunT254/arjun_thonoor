@@ -13,7 +13,7 @@
 -Analyzed course selection patterns at Hopkins High School using machine learning and statistical modeling techniques, identifying GPA and demographic-based disparities, improved academic advising feedback by 20%.
 
 ### **Affinity Plus Credit Union**
-**Affinity Plus Credit Union (_Jun 2024 - Aug 2024_)**
+**Data Science Intern (_Jun 2024 - Aug 2024_)**
 -Developed a POC in Python to simulate the credit flow performance of a new bank branch using Monte Carlo Simulation. Presented a Power BI dashboard highlighting branch KPIs across 8 economic scenarios.
 
 ### **Tredence**
