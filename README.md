@@ -1,8 +1,10 @@
+# Data Scientist
+
 ## Education
 
   M.S., Data Science | University of Minnesota (_Sept 2023 - May 2025_)	 			        		
   
-  B.Tech., Electronics and Communication | Vellore institute of Technology (_June 2017 - June 2021_)
+  B.Tech., Computer Engineering | Vellore institute of Technology (_June 2017 - June 2021_)
 
 ## Work Experience
 
@@ -54,8 +56,6 @@ Utilized advanced Natural Language Processing (NLP) techniques including transfo
 
 ### Cricket Match Outcome Prediction
 Analyzed cricket match data using SQL, identified key patterns and trends. Designed ML models to accurately predict match outcomes, achieving a 75% accuracy rate in win/loss probabilities through effective data manipulation.
-
-# Data Scientist
 
 #### Programming Languages: 
 Python, SQL, R, C++
